@@ -26,7 +26,7 @@ Training, skate, parkour, and code — everything follows the same principle: ev
 
 #### Frontend & Mobile
 ![HTML](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3)
+![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript)
 ![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react)
