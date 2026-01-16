@@ -1,11 +1,11 @@
-## Hi, I'm Nicolas 
+## 🥷 Hi, I'm Nicolas 
 
 Full Stack Developer  
 Problem solver • Disciplined learner • Hybrid (Mobile + Backend)
 
 ---
 
-### About Me
+### 🧠 About Me 
 
 I’m a full stack developer focused on building real, functional products.  
 I enjoy hard challenges, fast learning cycles, and constant improvement.
@@ -14,7 +14,7 @@ Currently working with **Flutter** on the frontend/mobile side and **NestJS APIs
 
 ---
 
-### Personal Mission
+### 🧭 Personal Mission 
 
 **Continuous improvement through discipline, practice, and problem-solving.**
 
@@ -22,7 +22,7 @@ Training, skate, parkour, and code — everything follows the same principle: ev
 
 ---
 
-### Tech Stack
+### ⚙️ Tech Stack
 
 <!-- Mobile + Backend (Core Stack) -->
 ![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
@@ -42,6 +42,6 @@ Training, skate, parkour, and code — everything follows the same principle: ev
 
 ---
 
-### Contact
+### 📥 Contact
 
 @ **onicolasmedrado@gmail.com**
