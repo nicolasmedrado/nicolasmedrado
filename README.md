@@ -18,7 +18,7 @@ Currently working with **Flutter** on the frontend/mobile side and **NestJS APIs
 
 **Continuous improvement through discipline, practice, and problem-solving.**
 
-Training, skate, parkour, and code — everything follows the same principle: evolve every day.
+Code. Workout. Skate. Parkour. — everything follows the same principle: evolve every day.
 
 ---
 
