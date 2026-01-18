@@ -1,7 +1,7 @@
 ## 🥷 Hi, I'm Nicolas 
 
 Full Stack Developer  
-Problem solver • Disciplined learner • Hybrid (Mobile + Backend)
+Problem solver • Fast learner • Hybrid (Mobile + Backend)
 
 ---
 
