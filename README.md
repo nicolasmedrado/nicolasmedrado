@@ -6,7 +6,7 @@ Full Stack Developer
 
 ### 🧠 About Me 
 
-I’m a full stack developer focused on building real, functional products.
+I’m focused on building real, functional products.
 I build mobile and backend solutions using **Flutter**, **NestJS**, and **MongoDB**, applying clean architecture principles and scalable API design in real projects.
 I enjoy hard challenges, fast learning cycles, and constant improvement.
 
