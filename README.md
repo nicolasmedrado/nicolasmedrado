@@ -36,4 +36,4 @@ Code. Workout. Skate. Parkour. — everything follows the same principle: evolve
 
 ### 📥 Contact
 
-@ **onicolasmedrado@gmail.com**
+**onicolasmedrado@gmail.com**
