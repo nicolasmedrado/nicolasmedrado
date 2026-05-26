@@ -6,13 +6,7 @@ Full Stack Developer
 
 ### About me
 
-I build Flutter apps and NestJS backends, mostly with MongoDB. I spend more time on structure than on features — projects that scale don't happen by accident.
-
----
-
-### Outside code
-
-I skate, do parkour, and train. The same thing that makes those work also makes coding work: consistent reps over time, not bursts of motivation.
+I build Flutter apps and NestJS backends, mostly with MongoDB. I spend more time on structure than on features. Projects that scale don't happen by accident.
 
 ---
 
