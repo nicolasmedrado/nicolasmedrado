@@ -1,26 +1,22 @@
-## 🥷 Hi, I'm Nicolas 
+## Hi, I'm Nicolas
 
 Full Stack Developer
 
 ---
 
-### 🧠 About Me 
+### About me
 
-I’m focused on building real, functional products.
-I build mobile and backend solutions using **Flutter**, **NestJS**, and **MongoDB**, applying clean architecture principles and scalable API design in real projects.
-I enjoy hard challenges, fast learning cycles, and constant improvement.
+I build Flutter apps and NestJS backends, mostly with MongoDB. I spend more time on structure than on features — projects that scale don't happen by accident.
 
 ---
 
-### 🧭 Personal Mission 
+### Outside code
 
-**Continuous improvement through discipline, practice, and problem-solving.**
-
-Code. Workout. Skate. Parkour. — everything follows the same principle: evolve every day.
+I skate, do parkour, and train. The same thing that makes those work also makes coding work: consistent reps over time, not bursts of motivation.
 
 ---
 
-### ⚙️ Tech Stack
+### Tech stack
 
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
@@ -34,6 +30,6 @@ Code. Workout. Skate. Parkour. — everything follows the same principle: evolve
 
 ---
 
-### 📥 Contact
+### Contact
 
-**onicolasmedrado@gmail.com**
+onicolasmedrado@gmail.com
