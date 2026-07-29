@@ -68,19 +68,6 @@ Desenvolvo aplicações web e mobile, com foco em arquitetura de software, APIs 
 
 ---
 
-## 📚 Tenho interesse em
-
-- Arquitetura de Software
-- Engenharia de Backend
-- APIs REST
-- Modelagem de Banco de Dados
-- System Design
-- Performance
-- Clean Code
-- Boas práticas de desenvolvimento
-
----
-
 ## 📫 Contato
 
 📧 **onicolasmedrado@gmail.com**
