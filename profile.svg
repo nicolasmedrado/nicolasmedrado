@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1020px" height="500px" font-family="Consolas, 'Courier New', monospace" font-size="16px">
+<style>
+.key {fill: #ffa657;}
+.value {fill: #a5d6ff;}
+.cc {fill: #616e7f;}
+.art {fill: #c9d1d9;}
+text, tspan {white-space: pre;}
+</style>
+<rect width="1020px" height="500px" fill="#161b22" rx="15"/>
+<text x="30" y="66" class="art" font-size="14px" xml:space="preserve">
+<tspan x="30" y="66">               -=+***+=-:</tspan>
+<tspan x="30" y="84">            =*#%%%%%##**+=-:</tspan>
+<tspan x="30" y="102">          =#%@@@@@@%%%##*++=-:</tspan>
+<tspan x="30" y="120">         +#%@@@@@@@@%%%##**+=-:</tspan>
+<tspan x="30" y="138">        =#%@@@@@@@@@%%%%##**+=-:</tspan>
+<tspan x="30" y="156">        +#%@@@@@@@@@%%%%##**+=-:</tspan>
+<tspan x="30" y="174">        =#%%@@@@@@@%%%%##***+=-:</tspan>
+<tspan x="30" y="192">         -*#%%@@@@%%%%##**++=-:</tspan>
+<tspan x="30" y="210">          :+*#%%%%%%%##**+==-:</tspan>
+<tspan x="30" y="228">            :=+*##%%##**+=-:</tspan>
+<tspan x="30" y="246">               .:-=++=-:.</tspan>
+<tspan x="30" y="300">            :-=+**####**+=-:</tspan>
+<tspan x="30" y="318">         :=*#%%@@@@@@%%%##**+=-:</tspan>
+<tspan x="30" y="336">       -=*#%@@@@@@@@@@@%%%##**+=-:</tspan>
+<tspan x="30" y="354">     :=*#%@@@@@@@@@@@@@%%%%##**+=-:</tspan>
+<tspan x="30" y="372">    -=*#%@@@@@@@@@@@@@@%%%%##**++=-:</tspan>
+<tspan x="30" y="390">   :=*#%%@@@@@@@@@@@@@@%%%%%##**++=-:</tspan>
+<tspan x="30" y="408">  -=*#%%@@@@@@@@@@@@@@@%%%%%##***++=-:</tspan>
+<tspan x="30" y="426"> :=+*#%%@@@@@@@@@@@@@@@%%%%%###***++=-:</tspan>
+<tspan x="30" y="444"> -=+*#%%@@@@@@@@@@@@@@@%%%%%###***++=-:</tspan>
+<tspan x="30" y="462">:=+*#%%@@@@@@@@@@@@@@@@%%%%%###***++==-:</tspan>
+</text>
+<text x="378" y="46" fill="#c9d1d9" xml:space="preserve">
+<tspan x="378" y="46">nicolas@medrado <tspan class="cc">——————————————————————————————————————————————————</tspan></tspan>
+<tspan x="378" y="66"><tspan class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">Humano (Edição Brasil) LTS</tspan></tspan>
+<tspan x="378" y="86"><tspan class="cc">. </tspan><tspan class="key">Role</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">Desenvolvedor Full Stack</tspan></tspan>
+<tspan x="378" y="106"><tspan class="cc">. </tspan><tspan class="key">Foco</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">Arquitetura, APIs, Clean Code</tspan></tspan>
+<tspan x="378" y="126"><tspan class="cc">. </tspan><tspan class="key">Editor</tspan>:<tspan class="cc"> ............... </tspan><tspan class="value">VS Code, Claude Code, Figma</tspan></tspan>
+<tspan x="378" y="146"><tspan class="cc">.</tspan></tspan>
+<tspan x="378" y="166"><tspan class="cc">. </tspan><tspan class="key">Linguagens</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">TypeScript, JavaScript, Dart</tspan></tspan>
+<tspan x="378" y="186"><tspan class="cc">. </tspan><tspan class="key">Frontend</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">Next.js, React</tspan></tspan>
+<tspan x="378" y="206"><tspan class="cc">. </tspan><tspan class="key">Backend</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">Node.js, NestJS, Prisma ORM</tspan></tspan>
+<tspan x="378" y="226"><tspan class="cc">. </tspan><tspan class="key">Database</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">PostgreSQL, Supabase, MongoDB, Firebase</tspan></tspan>
+<tspan x="378" y="246"><tspan class="cc">. </tspan><tspan class="key">Mobile</tspan>:<tspan class="cc"> ............... </tspan><tspan class="value">Flutter</tspan></tspan>
+<tspan x="378" y="266"><tspan class="cc">. </tspan><tspan class="key">Cloud</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">Vercel, Cloud Run, Docker</tspan></tspan>
+<tspan x="378" y="286"><tspan class="cc">. </tspan><tspan class="key">Tools</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">Git, GitHub, Linux, Claude Code, Figma</tspan></tspan>
+<tspan x="378" y="306"><tspan class="cc">.</tspan></tspan>
+<tspan x="378" y="326">- Atualmente <tspan class="cc">—————————————————————————————————————————————————————</tspan></tspan>
+<tspan x="378" y="346"><tspan class="cc">. </tspan><tspan class="key">Auth</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">JWT, Supabase Auth, Firebase Auth</tspan></tspan>
+<tspan x="378" y="366"><tspan class="cc">. </tspan><tspan class="key">APIs</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">REST</tspan></tspan>
+<tspan x="378" y="386"><tspan class="cc">. </tspan><tspan class="key">Arquitetura</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">Camadas, Clean Architecture</tspan></tspan>
+<tspan x="378" y="406"><tspan class="cc">.</tspan></tspan>
+<tspan x="378" y="426">- Contato <tspan class="cc">————————————————————————————————————————————————————————</tspan></tspan>
+<tspan x="378" y="446"><tspan class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">onicolasmedrado@gmail.com</tspan></tspan>
+<tspan x="378" y="466"><tspan class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> ............... </tspan><tspan class="value">github.com/nicolasmedrado</tspan></tspan>
+</text>
+</svg>
